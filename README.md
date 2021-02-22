@@ -70,5 +70,5 @@ If you don't already have Ghci, you need to install it.
    mySucc 12
    ```
 ## Documentation
-_For more examples, please refer to the [Documentation](https://www.haskell.org/documentation/)_
+_For more examples, please refer to the [Documentation](https://www.haskell.org/documentation/)_ </br>
 _If you don't know anithing about Haskell you can start [here](http://learnyouahaskell.com/chapters)_
