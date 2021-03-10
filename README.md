@@ -71,4 +71,4 @@ If you don't already have Ghci, you need to install it.
    ```
 ## Documentation
 _For more examples, please refer to the [Documentation](https://www.haskell.org/documentation/)_ </br>
-_If you don't know anithing about Haskell you can start [here](http://learnyouahaskell.com/chapters)_
+_If you don't know anything about Haskell you can start [here](http://learnyouahaskell.com/chapters)_
