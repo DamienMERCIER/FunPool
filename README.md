@@ -38,7 +38,7 @@ It's a implementation from scratch a bunch of functions wich are present in a wa
 ### Prerequisites
 
 If you don't already have Ghci, you need to install it.
-* ghci
+* Ghci
   ```sh
   sudo dnf install haskell-platform
   ```
@@ -57,15 +57,15 @@ If you don't already have Ghci, you need to install it.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. select a day
+1. Select a day
    ```sh
    cd Day01
    ```
-2. run ghci
+2. Run ghci
    ```sh
    ghci My.sh
    ```
-3. test
+3. Test
    ```sh
    mySucc 12
    ```
